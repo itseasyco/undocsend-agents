@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.undocsend/mcp",
+  "title": "undocsend",
+  "description": "Run undocsend dealrooms from your agent: build rooms, upload files, share links, read analytics.",
+  "version": "1.0.0",
+  "websiteUrl": "https://undocsend.com/mcp",
+  "repository": {
+    "url": "https://github.com/itseasyco/undocsend-agent",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://undocsend.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.undocsend.com/mcp"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "undocsend",
+  "version": "1.0.0",
+  "description": "Build, share and track undocsend dealrooms from your agent: undocsend skills plus the remote undocsend MCP server (OAuth).",
+  "author": {
+    "name": "Easy Labs Inc.",
+    "url": "https://undocsend.com"
+  },
+  "homepage": "https://undocsend.com",
+  "repository": "https://github.com/itseasyco/undocsend-agent",
+  "license": "MIT",
+  "keywords": ["undocsend", "dealroom", "data room", "fundraising", "mcp"]
+}
