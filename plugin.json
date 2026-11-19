@@ -8,7 +8,7 @@
     "url": "https://undocsend.com"
   },
   "homepage": "https://undocsend.com",
-  "repository": "https://github.com/itseasyco/undocsend-agent",
+  "repository": "https://github.com/itseasyco/undocsend-agents",
   "license": "MIT",
   "keywords": ["undocsend", "dealroom", "data room", "fundraising", "mcp"]
 }

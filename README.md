@@ -106,7 +106,7 @@ billing or sign-in settings, or change its own permissions.
 Install them with the [skills CLI](https://skills.sh):
 
 ```sh
-npx skills add itseasyco/undocsend-agent
+npx skills add itseasyco/undocsend-agents
 ```
 
 ## In this repository
