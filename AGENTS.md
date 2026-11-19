@@ -19,7 +19,7 @@ Instructions for AI coding agents that use undocsend or edit this repository.
 6. **Retry safely.** Send an `idempotency_key` on creation tools and reuse it on retry. `run_setup_wizard` and
    `draft_answer` require one because they spend AI credits.
 7. **Read docs as markdown.** Add `.md` to any undocsend.com docs URL, send `Accept: text/markdown`, or start from
-   https://undocsend.com/llms.txt. A docs MCP server at `https://mcp.undocsend.com/docs` is coming; it is not live yet.
+   https://undocsend.com/llms.txt. Or search them over MCP at `https://mcp.undocsend.com/docs` (no sign-in, read-only).
 8. **Try things in the demo.** https://demo.undocsend.com needs no account.
 
 The skills in `skills/` carry the detail: `undocsend` (connection, scopes, tools, approvals),

@@ -4,6 +4,10 @@
     "undocsend": {
       "type": "streamable-http",
       "url": "https://mcp.undocsend.com/mcp"
+    },
+    "undocsend-docs": {
+      "type": "streamable-http",
+      "url": "https://mcp.undocsend.com/docs"
     }
   }
 }

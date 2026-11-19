@@ -3,6 +3,10 @@
     "undocsend": {
       "type": "http",
       "url": "https://mcp.undocsend.com/mcp"
+    },
+    "undocsend-docs": {
+      "type": "http",
+      "url": "https://mcp.undocsend.com/docs"
     }
   }
 }

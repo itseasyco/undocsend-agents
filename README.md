@@ -21,8 +21,8 @@ https://mcp.undocsend.com/mcp
 - **Scopes:** `read`, `build`, `share`. `share` (links, invites, revoking access) stays off until the founder ticks it.
 - **One connection, one workspace.** The founder picks the workspace on the approval screen.
 
-A public docs MCP server at `https://mcp.undocsend.com/docs` is coming. It is not live yet. Until it is, read the docs
-as markdown (see [Docs for agents](#docs-for-agents)).
+A public docs MCP server runs at `https://mcp.undocsend.com/docs`: no sign-in, read-only, with `search_docs`, `get_doc`
+and `list_docs`. The docs are also available as markdown (see [Docs for agents](#docs-for-agents)).
 
 To try undocsend without an account, open the demo sandbox at [demo.undocsend.com](https://demo.undocsend.com).
 

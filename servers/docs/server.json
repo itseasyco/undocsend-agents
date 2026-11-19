@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.undocsend/docs",
+  "title": "undocsend docs",
+  "description": "Search and read the undocsend docs, pricing and security pages. Public, read-only, no sign-in.",
+  "version": "1.0.0",
+  "websiteUrl": "https://undocsend.com/mcp",
+  "repository": {
+    "url": "https://github.com/itseasyco/undocsend-agents",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://undocsend.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.undocsend.com/docs"
+    }
+  ]
+}
